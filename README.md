@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <!--
+
+<div>
+  <img src="https://i.playground.ru/p/_Kxnx5XxchnDpk9B-Gl_Ig.gif"/>
+</div>
 **devochkazaika/devochkazaika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
