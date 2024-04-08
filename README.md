@@ -11,7 +11,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <div>
-  <img src="https://i.playground.ru/p/_Kxnx5XxchnDpk9B-Gl_Ig.gif"/>
+<!--   <img src="https://i.playground.ru/p/_Kxnx5XxchnDpk9B-Gl_Ig.gif"/> -->
+  <divx>
+   <img height=200px; src = "https://media1.tenor.com/m/JJU9i_JlXDMAAAAd/chainsaw-man-makima.gif"/>
+   <img height=200px src="https://media1.tenor.com/m/hqbbxYtNqZcAAAAC/power-power-chainsaw-man.gif"/>
+<!--     <p1>sadasdasdasd</p1> -->
+  </div>
+    
 </div>
 
 <!-- BLOG-POST-LIST:END -->
