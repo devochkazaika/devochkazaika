@@ -13,9 +13,9 @@
 <div>
 <!--   <img src="https://i.playground.ru/p/_Kxnx5XxchnDpk9B-Gl_Ig.gif"/> -->
   <divx>
-   <img height=200px; src = "https://media1.tenor.com/m/JJU9i_JlXDMAAAAd/chainsaw-man-makima.gif"/>
-   <img height=200px src="https://media1.tenor.com/m/hqbbxYtNqZcAAAAC/power-power-chainsaw-man.gif"/>
-<!--     <p1>sadasdasdasd</p1> -->
+   <img height=300px; src = "https://media1.tenor.com/m/JJU9i_JlXDMAAAAd/chainsaw-man-makima.gif"/>
+      <img style={{inline-block: "true"}} src= https://steamuserimages-a.akamaihd.net/ugc/928185407867756358/578AD072429BA5F8CA74A6CD5D5854D0E0FDFAD5/?  width="500" height="300px"/>
+   <img height=300px src="https://media1.tenor.com/m/hqbbxYtNqZcAAAAC/power-power-chainsaw-man.gif"/>
   </div>
     
 </div>
